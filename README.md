@@ -2,17 +2,21 @@
 
 #### Motivation
 
-## 📚 Books
+## Books
 
 [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf): If you ever wonder how to do a regression fit step by step using R by hand, then this is the place to go. It also explain all parts of the output summary and how each one is calculated.
 
 [The hundred page machine learning book](http://themlbook.com/wiki/doku.php): A beautifully crafted book with python examples and a friendly introduction on the mathematics behind lots of algorithms. It also takes you to the work flow of problem solving.
 
-<u>Machine Learning: A probabilistic perspective by Kevin Patrick Murphy</u>: Amazing book that starts with stats and probability concept. Requires high knowledge on math and related concepts. A good book to start, stop and come back from time to time to realize that you understand more that the previous time.
+[Machine Learning: A probabilistic perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf): Amazing book that starts with stats and probability concept. Requires high knowledge on math and related concepts. A good book to start, stop and come back from time to time to realize that you understand more that the previous time.
 
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/): A comprehensive introduction to forecasting methods using R.
 
 [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/): A masterpiece that soon or later one has to read. Above the level of hundred-page machine learning but below Machine learning by Murphy.
+
+#### Experimental design & epidemiology
+
+[Causal inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/): What is causain inference and how can we achieve it? Hernan use logic, models and direct acyclic graphs to answer this question.
 
 #### Chapters
 
@@ -25,7 +29,7 @@
 
 - [Chapter 25](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) - Missing data imputation: Types of missing values and different imputing models to deal with them.
 
-## 📄 Articles
+## Articles
 
 #### Count data
 
