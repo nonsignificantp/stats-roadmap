@@ -1,18 +1,22 @@
-# Stats roadmap
+# Stats road-map
 
-#### Motivation
+Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or economics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that help me to achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
 
 ## Books
 
-[Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf): If you ever wonder how to do a regression fit step by step by hand, then this is the place to go. It also explain all parts of the output summary and how each one is calculated.
-
 [The hundred page machine learning book](http://themlbook.com/wiki/doku.php): A beautifully crafted book with python examples and a friendly introduction on the mathematics behind lots of algorithms. It also takes you to the work flow of problem solving in ML.
+
+[An introduction to statistical learning with applications in R](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): A good second step before reading one of the bibles of machine learning.
+
+[The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/): A masterpiece that soon or later one has to read. Above the level of hundred-page machine learning but below Machine learning by Murphy.
 
 [Machine Learning: A probabilistic perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf): Amazing book that starts with stats and probability concept. Requires high knowledge on math and related concepts. A good book to start, stop and come back from time to time to realize that you understand more that the previous time.
 
+[Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf): If you ever wonder how to do a regression fit step by step by hand, then this is the place to go. It also explain all parts of the output summary and how each one is calculated.
+
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/): A comprehensive introduction to forecasting methods using R.
 
-[The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/): A masterpiece that soon or later one has to read. Above the level of hundred-page machine learning but below Machine learning by Murphy.
+[Regression modeling strategies](https://www.springer.com/la/book/9781441929181): Commonly used clinical prediction models. The author is a clinical researcher, so this is stats through the eyes of a doctor.
 
 #### Experimental design & epidemiology
 
@@ -59,6 +63,12 @@
 
 [Using causal diagrams to understand problems of confounding and selection bias](http://miror-ejd.eu/wp-content/uploads/sites/34/2016/10/MiRoR-Causality-ho.pdf): Heads up on dags, confounding and colliding.
 
+#### Missing data & imputation
+
+[Reducing bias in treatment effect estimation in observational studies suffering from missing data](http://academiccommons.columbia.edu/download/fedora_content/download/ac:129152/CONTENT/2004_01.pdf)
+
+
+
 ## Videos & Courses
 
 [Policy Analysis Using interrupted Time Series](https://www.edx.org/course/policy-analysis-using-interrupted-time-ubcx-itsx-2): Edx course on how to perform interrupted time series and regression discontinuity design.
@@ -77,7 +87,7 @@
 
 [Stata learner](https://www.youtube.com/user/ashwinikalantri/playlists): An HarvardX course that was previously feature in EdX. Deals mostly with theoretical aspects of experimental design and how to perform data analysis using STATA. Those looking for an introduction to experimental design, should give a shot to this video series.
 
-## Stackoverflow
+## Stackoverflow & Reddit
 
 [On poisson regression models to estimate relative risk for binary outcomes](https://stats.stackexchange.com/questions/18595/poisson-regression-to-estimate-relative-risk-for-binary-outcomes).
 
@@ -87,7 +97,9 @@
 
 [Relative risk standard errors and confidence interval](https://stats.stackexchange.com/questions/126727/why-doesnt-standard-error-for-ratios-have-log-in-it)
 
-## 🛠 Programming
+[Guidelines for writing data analysis report](https://www.reddit.com/r/datascience/comments/am2cep/guidelines_for_writing_data_analysis_reports/)
+
+## Programming
 
 #### Python
 
