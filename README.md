@@ -1,6 +1,6 @@
 # Stats road-map
 
-Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or economics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that help me to achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
+Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or economics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that help me achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
 
 ## Books
 
@@ -17,6 +17,8 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/): A comprehensive introduction to forecasting methods using R.
 
 [Regression modeling strategies](https://www.springer.com/la/book/9781441929181): Commonly used clinical prediction models. The author is a clinical researcher, so this is stats through the eyes of a doctor.
+
+[R for Data Science](https://r4ds.had.co.nz): *Hadley Wickham* introduces R and the tidyverse package on an easy to read and very comprehensive book. I love everything that Wickham does, check out his classes on youtube too!
 
 #### Experimental design & epidemiology
 
@@ -86,6 +88,10 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 [CRISP-DM: The dominant process for data mining](https://www.youtube.com/watch?v=civLio11SjQ): A step by step guide on cross-industry standard process for data mining. CRISP-DM is a guideline that helps data scientist to structure the problems in a business framework and make solutions more communicable for the target public.
 
 [Stata learner](https://www.youtube.com/user/ashwinikalantri/playlists): An HarvardX course that was previously feature in EdX. Deals mostly with theoretical aspects of experimental design and how to perform data analysis using STATA. Those looking for an introduction to experimental design, should give a shot to this video series.
+
+[Understanding the Chapman–Kolmogorov equation](https://www.youtube.com/watch?v=W5P4kCpdhho): Visualize Chapman-Kolmogorov by using Markov chains on time series.
+
+Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.youtube.com/watch?v=T3TpdPmTLso) and [Multivariate Calculus](https://www.youtube.com/watch?v=m998PdOCFcY):
 
 ## Stackoverflow & Reddit
 
