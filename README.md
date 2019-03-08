@@ -1,6 +1,6 @@
 # Stats road-map
 
-Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or economics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that help me achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
+Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or statistics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that help me achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
 
 ## Books
 
@@ -77,7 +77,7 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 
 [Causal Diagrams: Draw your assumptions before your conclusions](https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x): Learn to use direct acyclic graphs for drawing causal inference. Helpful for identifying and illustrating the presence of confounders, mediators and colliders.
 
-[Amazon machine learning course for data scientists](https://aws.amazon.com/training/learning-paths/machine-learning/data-scientist/): A must do course that introduce in a comprehensive manner the fundamentals math behind regression, specifically MLE.
+[Amazon machine learning course for data scientists](https://aws.amazon.com/training/learning-paths/machine-learning/data-scientist/): A must do course that introduce in a comprehensive manner the fundamental math behind regression.
 
 #### Youtube
 
@@ -87,11 +87,13 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 
 [CRISP-DM: The dominant process for data mining](https://www.youtube.com/watch?v=civLio11SjQ): A step by step guide on cross-industry standard process for data mining. CRISP-DM is a guideline that helps data scientist to structure the problems in a business framework and make solutions more communicable for the target public.
 
-[Stata learner](https://www.youtube.com/user/ashwinikalantri/playlists): An HarvardX course that was previously feature in EdX. Deals mostly with theoretical aspects of experimental design and how to perform data analysis using STATA. Those looking for an introduction to experimental design, should give a shot to this video series.
+[Stata learner](https://www.youtube.com/user/ashwinikalantri/playlists): A HarvardX course that was previously feature in EdX. It deals mostly with theoretical aspects of experimental design and how to perform data analysis using STATA. For those looking for an introduction to experimental design, you should give a shot to this video series.
 
-[Understanding the Chapman–Kolmogorov equation](https://www.youtube.com/watch?v=W5P4kCpdhho): Visualize Chapman-Kolmogorov by using Markov chains on time series.
+[Understanding the Chapman–Kolmogorov equation](https://www.youtube.com/watch?v=W5P4kCpdhho): Visualizing Chapman-Kolmogorov by using Markov chains on time series.
 
-Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.youtube.com/watch?v=T3TpdPmTLso) and [Multivariate Calculus](https://www.youtube.com/watch?v=m998PdOCFcY):
+Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.youtube.com/watch?v=T3TpdPmTLso) and [Multivariate Calculus](https://www.youtube.com/watch?v=m998PdOCFcY)
+
+[Graph theory playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
 ## Stackoverflow & Reddit
 
@@ -105,10 +107,6 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Guidelines for writing data analysis report](https://www.reddit.com/r/datascience/comments/am2cep/guidelines_for_writing_data_analysis_reports/)
 
-## Programming
-
-#### Python
-
-#### R
+## Programming & Notebooks
 
 [Titanic Database - Technical Analysis](https://rstudio-pubs-static.s3.amazonaws.com/311038_42bc748ec71f469a987bdb536c6c4e88.html)
