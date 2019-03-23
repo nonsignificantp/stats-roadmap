@@ -77,8 +77,6 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 
 [Geo-spatial analysis with generalized additive models](https://www.casact.org/education/rpm/2010/handouts/PM1-Guszcza.pdf)
 
-
-
 ## Videos & Courses
 
 [Policy Analysis Using interrupted Time Series](https://www.edx.org/course/policy-analysis-using-interrupted-time-ubcx-itsx-2): Edx course on how to perform interrupted time series and regression discontinuity design.
@@ -108,6 +106,8 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 [Multi-Objective Problems](https://www.youtube.com/watch?v=56JOMkPvoKs)
 
 [Creating correct and capable classifiers - Ian Ozsvald](https://www.youtube.com/watch?v=DkLPYccEJ8Y)
+
+[Selection bias: The elephant in the room - Lucas Bernardi](https://www.youtube.com/watch?v=3ZWCKr0vDtc)
 
 ## Stackoverflow & Reddit
 
