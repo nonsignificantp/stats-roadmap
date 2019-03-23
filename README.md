@@ -69,6 +69,14 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 
 [Reducing bias in treatment effect estimation in observational studies suffering from missing data](http://academiccommons.columbia.edu/download/fedora_content/download/ac:129152/CONTENT/2004_01.pdf)
 
+#### GAM
+
+[Overview GAMM analysis of time series data](http://www.sfs.uni-tuebingen.de/~jvanrij/Tutorial/GAMM.html)
+
+[Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model in R](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
+
+[Geo-spatial analysis with generalized additive models](https://www.casact.org/education/rpm/2010/handouts/PM1-Guszcza.pdf)
+
 
 
 ## Videos & Courses
@@ -124,4 +132,3 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 [Spatial analysis in R with the `sf` package](https://cdn.rawgit.com/rhodyrstats/geospatial_with_sf/bc2b17cf/geospatial_with_sf.html)
 
 [Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
-
