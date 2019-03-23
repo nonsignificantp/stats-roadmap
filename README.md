@@ -1,6 +1,6 @@
 # Stats road-map
 
-Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or statistics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that help me achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
+Hi, I'm a junior data scientist coming from clinical research. I've gained experience with experimental design, causal inference and basic statistical analysis while becoming a physician at Buenos Aires University. I've always being inclined towards epidemiology and statistics, gaining a profound love of stats and math as an adult. It was only a matter of time before I found out about data science and machine learning. From then on, I haven't stop reading, watching lectures, programming and practicing with datasets. Coming from a field outside computer science or statistics gave me a different approach on learning the needed skills, but also a different set of problems to solve on my way. Because of this, I decided to keep a record of all materials that helped me achieve those 'eureka' moments. I hope this list helps you too, feel free to push changes or ideas!
 
 ## Books
 
@@ -95,6 +95,12 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Graph theory playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
+[Liz Sander | Evolutionary Algorithms  Perfecting the Art of "Good Enough"](https://www.youtube.com/watch?v=iJ4MiibHt68): An introduction to genetic and evolutionary algorithms.
+
+[Multi-Objective Problems](https://www.youtube.com/watch?v=56JOMkPvoKs)
+
+[Creating correct and capable classifiers - Ian Ozsvald](https://www.youtube.com/watch?v=DkLPYccEJ8Y)
+
 ## Stackoverflow & Reddit
 
 [On poisson regression models to estimate relative risk for binary outcomes](https://stats.stackexchange.com/questions/18595/poisson-regression-to-estimate-relative-risk-for-binary-outcomes).
@@ -110,3 +116,12 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 ## Programming & Notebooks
 
 [Titanic Database - Technical Analysis](https://rstudio-pubs-static.s3.amazonaws.com/311038_42bc748ec71f469a987bdb536c6c4e88.html)
+
+#### Geo-spatial analysis
+
+[Introduction to spatial analysis in R](https://jafflerbach.github.io/spatial-analysis-R/): Using sf and raster packages.
+
+[Spatial analysis in R with the `sf` package](https://cdn.rawgit.com/rhodyrstats/geospatial_with_sf/bc2b17cf/geospatial_with_sf.html)
+
+[Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
+
