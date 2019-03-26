@@ -20,6 +20,8 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 
 [R for Data Science](https://r4ds.had.co.nz): *Hadley Wickham* introduces R and the tidyverse package on an easy to read and very comprehensive book. I love everything that Wickham does, check out his classes on youtube too!
 
+[Interpertable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
 #### Experimental design & epidemiology
 
 [Causal inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/): What's causal inference and how can it be achieve? Hernan use logic, models and direct acyclic graphs to answer this question.
@@ -76,8 +78,6 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model in R](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
 
 [Geo-spatial analysis with generalized additive models](https://www.casact.org/education/rpm/2010/handouts/PM1-Guszcza.pdf)
-
-
 
 ## Videos & Courses
 
