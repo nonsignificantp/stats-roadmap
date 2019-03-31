@@ -111,6 +111,8 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Selection bias: The elephant in the room - Lucas Bernardi](https://www.youtube.com/watch?v=3ZWCKr0vDtc)
 
+[Understanding Kalman Filters - MATLAB](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
+
 ### Bayes
 
 [Vincent D Warmerdam - The Duct Tape of Heroes Bayesian statistics](https://youtu.be/dE5j6NW-Kzg)
