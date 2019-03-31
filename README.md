@@ -109,6 +109,10 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Selection bias: The elephant in the room - Lucas Bernardi](https://www.youtube.com/watch?v=3ZWCKr0vDtc)
 
+### Bayes
+
+[Vincent D Warmerdam - The Duct Tape of Heroes Bayesian statistics](https://youtu.be/dE5j6NW-Kzg)
+
 ## Stackoverflow & Reddit
 
 [On poisson regression models to estimate relative risk for binary outcomes](https://stats.stackexchange.com/questions/18595/poisson-regression-to-estimate-relative-risk-for-binary-outcomes).
