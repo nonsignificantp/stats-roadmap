@@ -103,10 +103,6 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Graph theory playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
-[Liz Sander | Evolutionary Algorithms  Perfecting the Art of "Good Enough"](https://www.youtube.com/watch?v=iJ4MiibHt68): An introduction to genetic and evolutionary algorithms.
-
-[Multi-Objective Problems](https://www.youtube.com/watch?v=56JOMkPvoKs)
-
 [Creating correct and capable classifiers - Ian Ozsvald](https://www.youtube.com/watch?v=DkLPYccEJ8Y)
 
 [Selection bias: The elephant in the room - Lucas Bernardi](https://www.youtube.com/watch?v=3ZWCKr0vDtc)
@@ -116,6 +112,14 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 ### Bayes
 
 [Vincent D Warmerdam - The Duct Tape of Heroes Bayesian statistics](https://youtu.be/dE5j6NW-Kzg)
+
+### Metaheuristics
+
+[Multi-Objective Problems](https://www.youtube.com/watch?v=56JOMkPvoKs)
+
+[A unified view of metaheuristics for multi-objective optimization](https://www.youtube.com/watch?v=ITNHQNAy7AQ)
+
+[Liz Sander | Evolutionary Algorithms  Perfecting the Art of "Good Enough"](https://www.youtube.com/watch?v=iJ4MiibHt68): An introduction to genetic and evolutionary algorithms.
 
 ## Stackoverflow & Reddit
 
@@ -139,4 +143,4 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Spatial analysis in R with the `sf` package](https://cdn.rawgit.com/rhodyrstats/geospatial_with_sf/bc2b17cf/geospatial_with_sf.html)
 
-[Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
+# [Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
