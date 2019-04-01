@@ -143,4 +143,4 @@ Mathematics for Machine Learning Full Course - [Linear Algebra](https://www.yout
 
 [Spatial analysis in R with the `sf` package](https://cdn.rawgit.com/rhodyrstats/geospatial_with_sf/bc2b17cf/geospatial_with_sf.html)
 
-# [Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
+[Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
