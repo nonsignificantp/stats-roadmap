@@ -39,6 +39,10 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 
 ## Articles
 
+#### Probability & Statistics
+
+[Bayesian statistics](http://frnsys.com/ai_notes/foundations/bayesian_statistics.html)
+
 #### Count data
 
 [Visualizing count data using rootograms](https://arxiv.org/pdf/1605.01311.pdf): Rootograms are an awesome tool for visualizing the under/over-dispersion phenomena seen in Poisson and Negative Binomial models for count data.
@@ -50,6 +54,10 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 [Gettin started with hurdle models](https://data.library.virginia.edu/getting-started-with-hurdle-models/): Step by step introduction for fitting and assessing hurdle models using R.
 
 [Interpreting hurdle models](https://stats.idre.ucla.edu/stata/output/zero-inflated-poisson-regression/): Reading the output of hurdle models by using STATA output as an example.
+
+#### Imbalance data
+
+[Handling imbalanced data in classification problems](https://medium.com/james-blogs/handling-imbalanced-data-in-classification-problems-7de598c1059f)
 
 #### Gradient boosting
 
@@ -78,6 +86,10 @@ Hi, I'm a junior data scientist coming from clinical research. I've gained exper
 [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model in R](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
 
 [Geo-spatial analysis with generalized additive models](https://www.casact.org/education/rpm/2010/handouts/PM1-Guszcza.pdf)
+
+#### Graphical models
+
+[Probabilistic graphical models](https://frnsys.com/ai_notes/foundations/probabilistic_graphical_models.html)
 
 ## Videos & Courses
 
